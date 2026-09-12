@@ -1,0 +1,74 @@
+body{
+    background-image: url("../images/IMG-20260906-WA0065.jpg");
+}
+h1{
+    color: aqua;
+    font-size: 40px;
+    margin-top: 30px;
+}
+div{
+    background-color: rgba(240, 255, 251, 0.781);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+}
+h2{
+    color: aqua;
+    font-size: 30px;
+}
+p{
+    color: aqua;
+    font-size: 18px;
+    line-height: 1.6;
+}
+nav {
+      color: azure;
+      padding: 15px;
+}
+img{
+    width: 90px;
+    height: auto;
+    border-radius: 15px;
+}
+a:link{
+    color:rgb(165, 147, 42);
+    background-color:transparent;
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(42, 165, 124);
+    background-color:transparent;
+    text-decoration: none;
+}
+a:active{
+    color: aqua;
+    background-color:transparent;
+    text-decoration:none;
+}
+a{
+    background-color: azure;
+    border-radius: 25px;
+    padding: 12px;
+    float:left;
+    color: beige;
+    margin: 10px auto;
+    text-decoration: antiquewhite;
+    width: 100px;
+}
+button{
+    background-color: azure;
+    color: rgb(255, 0, 21);
+    border: none;
+    padding: 12px 25px;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: aqua;
+}
+img{
+  width: 300px;
+  height: 400px;
+  display: flex;
+}
